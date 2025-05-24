@@ -1,0 +1,65 @@
+// ========== COLORS ==========
+
+// Base Colors
+$color-black: #000000;
+$color-white: #ffffff;
+$color-dark-gray: #131313;
+$color-light-gray: #fafafa;
+
+// Brand Colors
+$color-primary: #e9692c; // Primary orange
+$color-primary-dark: #bf5523; // Darker orange
+$color-secondary: #3e435d; // Dark blue-gray
+$color-accent: #2374bf; // Blue accent
+
+// Background Colors
+$color-bg-primary: #ffffff; // Main white background
+$color-bg-secondary: #f1f1f1; // Light gray background
+$color-bg-dark: #131313; // Dark background
+$color-bg-overlay: #13131340; // Semi-transparent dark overlay
+
+// Card & UI Colors
+$color-card-orange: #ffebe1; // Light orange tint
+$color-border-gray: #8f8f8f; // Medium gray for borders
+$color-text-muted: #ada7a7; // Muted text color
+
+// Text Colors
+$color-text-primary: #000000; // Primary black text
+$color-text-secondary: #3e435d; // Secondary dark text
+$color-text-muted: #8f8f8f; // Muted gray text
+$color-text-light: #ada7a7; // Light gray text
+$color-text-white: #ffffff; // White text
+
+// ========== TYPOGRAPHY ==========
+
+// Font Sizes
+$font-size-xs: 0.75rem; // 12px
+$font-size-sm: 0.875rem; // 14px
+$font-size-base: 1rem; // 16px
+$font-size-lg: 1.125rem; // 18px
+$font-size-xl: 1.25rem; // 20px
+$font-size-2xl: 1.5rem; // 24px
+$font-size-3xl: 1.875rem; // 30px
+
+// Font Weights
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+// Line Heights
+$line-height-tight: 1.25;
+$line-height-normal: 1.5;
+$line-height-relaxed: 1.75;
+
+// ========== SPACING ==========
+
+// Padding & Margin Scale
+$space-xs: 0.25rem; // 4px
+$space-sm: 0.5rem; // 8px
+$space-md: 0.75rem; // 12px
+$space-lg: 1rem; // 16px
+$space-xl: 1.5rem; // 24px
+$space-2xl: 2rem; // 32px
+$space-3xl: 3rem; // 48px
+$space-4xl: 4rem; // 64px
