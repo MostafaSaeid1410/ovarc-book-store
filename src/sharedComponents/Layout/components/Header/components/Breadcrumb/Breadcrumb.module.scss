@@ -1,0 +1,39 @@
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 22px;
+    color: #65687a;
+    font-family: "Montserrat", sans-serif;
+    background: transparent;
+}
+
+.crumb {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.arrow {
+    margin: 0 8px;
+    width: 11px;
+    height: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    color: #65687a;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.link:hover {
+    color: #3e435d;
+    text-decoration: underline;
+}
+
+.current {
+    color: #65687a;
+    font-weight: 500;
+}
